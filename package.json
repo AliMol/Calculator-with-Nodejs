@@ -1,0 +1,15 @@
+{
+  "name": "calculatorapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine JASMINE_CONFIG_PATH=spec/support/jasmine.json"
+  },
+  "author": "ALI",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine": "^2.8.0",
+    "underscore": "^1.8.3"
+  }
+}
